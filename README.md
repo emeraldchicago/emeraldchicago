@@ -3,6 +3,8 @@
 Welcome! I usually post my links, profiles, articles and other internet-oriented activites here.
 Here are some stuff I am doing in my early-teenage years.
 
+## LINK-IN-BIO
+[LINK-IN-BIO](https://linktr.ee/emeraldchicago)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,vscode)](https://skillicons.dev)
